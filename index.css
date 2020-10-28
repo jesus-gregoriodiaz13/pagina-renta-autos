@@ -1,0 +1,35 @@
+#navegador{
+     background-color:#136698 !important;
+}
+
+footer {
+background-color:#136698;
+color: white;
+font-size:16px;
+}
+
+footer a {
+text-decoration: none;
+color: white;
+text-align: center;
+}
+
+footer a:hover{
+text-decoration: none;  
+color: yellow;
+font-size: 20px;
+text-align: center;
+}
+
+#Productos{
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+.card{
+margin-top: 5% !important;
+
+}
+
+
+
